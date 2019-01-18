@@ -1,13 +1,13 @@
 #include<math.h>
 #include<stdlib.h>
 
-#define it (1233)
+#define it (600)
 #define npml (10)
 #define npmlc (4)
 #define np (14) // np = npml + npmlc;
-#define nx (170)
-#define ny (120)
-#define nz (90)
+#define nx (100)
+#define ny (100)
+#define nz (100)
 #define szfsw (370)
 #define dx (0.01)
 #define dy (0.01)
